@@ -182,11 +182,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [KristofferHolms/Recipe-suggestion-application](https://github.com/KristofferHolms/Recipe-suggestion-application)<br>
-2. ⬆️ Pushed undefined commit(s) to [KristofferHolms/Recipe-suggestion-application](https://github.com/KristofferHolms/Recipe-suggestion-application)<br>
-3. ⬆️ Pushed undefined commit(s) to [KristofferHolms/Project-Bot](https://github.com/KristofferHolms/Project-Bot)<br>
-4. ⬆️ Pushed undefined commit(s) to [KristofferHolms/JP-Groent](https://github.com/KristofferHolms/JP-Groent)<br>
-5. ⬆️ Pushed undefined commit(s) to [KristofferHolms/AFS](https://github.com/KristofferHolms/AFS)<br>
+1. ⭐ Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
+2. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
+3. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
+4. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
+5. ⬆️ Pushed undefined commit(s) to [KristofferHolms/Recipe-suggestion-application](https://github.com/KristofferHolms/Recipe-suggestion-application)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
