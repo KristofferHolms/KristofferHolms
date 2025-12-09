@@ -182,6 +182,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [KristofferHolms/Recipe-suggestion-application](https://github.com/KristofferHolms/Recipe-suggestion-application)<br>
+2. ⬆️ Pushed undefined commit(s) to [KristofferHolms/Recipe-suggestion-application](https://github.com/KristofferHolms/Recipe-suggestion-application)<br>
+3. ⬆️ Pushed undefined commit(s) to [KristofferHolms/Project-Bot](https://github.com/KristofferHolms/Project-Bot)<br>
+4. ⬆️ Pushed undefined commit(s) to [KristofferHolms/JP-Groent](https://github.com/KristofferHolms/JP-Groent)<br>
+5. ⬆️ Pushed undefined commit(s) to [KristofferHolms/AFS](https://github.com/KristofferHolms/AFS)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
