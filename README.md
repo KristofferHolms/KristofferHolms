@@ -182,11 +182,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
-2. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
-3. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
-4. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
-5. ⬆️ Pushed undefined commit(s) to [KristofferHolms/Recipe-suggestion-application](https://github.com/KristofferHolms/Recipe-suggestion-application)<br>
+1. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
+2. ⭐ Starred [honojs/hono](https://github.com/honojs/hono)<br>
+3. ⭐ Starred [luisfun/discord-hono](https://github.com/luisfun/discord-hono)<br>
+4. ⭐ Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
+5. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
