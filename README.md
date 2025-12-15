@@ -182,11 +182,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
-2. ⭐ Starred [honojs/hono](https://github.com/honojs/hono)<br>
-3. ⭐ Starred [luisfun/discord-hono](https://github.com/luisfun/discord-hono)<br>
-4. ⭐ Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
-5. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)<br>
+1. ⭐ Starred [Tinggaard/classic-aau-report](https://github.com/Tinggaard/classic-aau-report)<br>
+2. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
+3. ⭐ Starred [honojs/hono](https://github.com/honojs/hono)<br>
+4. ⭐ Starred [luisfun/discord-hono](https://github.com/luisfun/discord-hono)<br>
+5. ⭐ Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
