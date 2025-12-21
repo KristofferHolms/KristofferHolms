@@ -182,11 +182,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
-2. ⭐ Starred [Tinggaard/classic-aau-report](https://github.com/Tinggaard/classic-aau-report)<br>
-3. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
-4. ⭐ Starred [honojs/hono](https://github.com/honojs/hono)<br>
-5. ⭐ Starred [luisfun/discord-hono](https://github.com/luisfun/discord-hono)<br>
+1. 🔱 Forked [KristofferHolms/simple-icons](https://github.com/KristofferHolms/simple-icons) from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
+2. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
+3. ⭐ Starred [Tinggaard/classic-aau-report](https://github.com/Tinggaard/classic-aau-report)<br>
+4. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
+5. ⭐ Starred [honojs/hono](https://github.com/honojs/hono)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
