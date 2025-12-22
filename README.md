@@ -182,11 +182,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [KristofferHolms/simple-icons](https://github.com/KristofferHolms/simple-icons) from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
-2. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
-3. ⭐ Starred [Tinggaard/classic-aau-report](https://github.com/Tinggaard/classic-aau-report)<br>
-4. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
-5. ⭐ Starred [honojs/hono](https://github.com/honojs/hono)<br>
+1. 🔱 Forked [KristofferHolms/readme-typing-svg](https://github.com/KristofferHolms/readme-typing-svg) from [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)<br>
+2. 🔱 Forked [KristofferHolms/simple-icons](https://github.com/KristofferHolms/simple-icons) from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
+3. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
+4. ⭐ Starred [Tinggaard/classic-aau-report](https://github.com/Tinggaard/classic-aau-report)<br>
+5. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
