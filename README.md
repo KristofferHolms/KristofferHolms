@@ -182,11 +182,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
-2. 🔱 Forked [KristofferHolms/Denmarkdle](https://github.com/KristofferHolms/Denmarkdle) from [muhashi/geodle](https://github.com/muhashi/geodle)<br>
-3. ⭐ Starred [muhashi/geodle](https://github.com/muhashi/geodle)<br>
-4. 🔱 Forked [KristofferHolms/readme-typing-svg](https://github.com/KristofferHolms/readme-typing-svg) from [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)<br>
-5. 🔱 Forked [KristofferHolms/simple-icons](https://github.com/KristofferHolms/simple-icons) from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
+1. ⭐ Starred [scottbez1/smartknob](https://github.com/scottbez1/smartknob)<br>
+2. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
+3. 🔱 Forked [KristofferHolms/Denmarkdle](https://github.com/KristofferHolms/Denmarkdle) from [muhashi/geodle](https://github.com/muhashi/geodle)<br>
+4. ⭐ Starred [muhashi/geodle](https://github.com/muhashi/geodle)<br>
+5. 🔱 Forked [KristofferHolms/readme-typing-svg](https://github.com/KristofferHolms/readme-typing-svg) from [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
