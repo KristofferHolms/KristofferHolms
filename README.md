@@ -184,8 +184,6 @@
   <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [scottbez1/smartknob](https://github.com/scottbez1/smartknob)<br>
 2. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
-3. 🔱 Forked [KristofferHolms/Denmarkdle](https://github.com/KristofferHolms/Denmarkdle) from [muhashi/geodle](https://github.com/muhashi/geodle)<br>
-4. ⭐ Starred [muhashi/geodle](https://github.com/muhashi/geodle)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
