@@ -183,7 +183,6 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [scottbez1/smartknob](https://github.com/scottbez1/smartknob)<br>
-2. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
