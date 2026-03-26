@@ -183,7 +183,6 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-2. ⭐ Starred [VeriFIT/mata](https://github.com/VeriFIT/mata)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
