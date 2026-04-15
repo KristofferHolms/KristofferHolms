@@ -182,7 +182,8 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
+1. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
+2. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
