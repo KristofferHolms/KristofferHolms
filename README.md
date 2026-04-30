@@ -182,10 +182,6 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OxiDD/oxidd](https://github.com/OxiDD/oxidd)<br>
-2. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
-3. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-4. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
