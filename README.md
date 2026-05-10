@@ -186,7 +186,6 @@
 2. ⭐ Starred [OxiDD/oxidd](https://github.com/OxiDD/oxidd)<br>
 3. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
 4. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-5. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
