@@ -182,6 +182,9 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [doma-itachi/Youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block)<br>
+2. ⭐ Starred [OxiDD/oxidd](https://github.com/OxiDD/oxidd)<br>
+3. ⬆️ Pushed undefined commit(s) to [KristofferHolms/KristofferHolms](https://github.com/KristofferHolms/KristofferHolms)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
