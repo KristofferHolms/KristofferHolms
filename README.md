@@ -182,7 +182,6 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [doma-itachi/Youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block)<br>
   <!--RECENT_ACTIVITY:end-->
 
 </details>
